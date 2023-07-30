@@ -1,7 +1,7 @@
 ### Hi there 👋
 <html>
   <body>
-    <img src = "intro.gif">
+    <img src = "intro.gif" align = "center">
   </body>
 </html>
 <!--
