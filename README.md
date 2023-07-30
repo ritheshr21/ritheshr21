@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<html>
+  <body>
+    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0bMp5-jom9LqtvyhGjN_qj&ust=1690781921546000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJCptNvbtYADFQAAAAAdAAAAABAI">
+  </body>
+</html>
 <!--
 **ritheshr21/ritheshr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
