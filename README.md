@@ -26,7 +26,7 @@ Backend systems and AI-integrated applications. Currently:
 
 </td>
 <td valign="middle" width="220" style="border: none;">
-<img src="YOUR_GIF_URL_HERE" width="200" alt="coding gif">
+<img src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif" width="200" alt="coding gif">
 </td>
 </tr>
 </table>
