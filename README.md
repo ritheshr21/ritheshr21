@@ -1,6 +1,6 @@
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td valign="middle">
+<td valign="middle" style="border: none;">
 
 # Hi there, I'm Rithesh 👋
 
@@ -10,12 +10,11 @@
 ◼ Open to collaborating on backend, microservices, and AI-integrated projects.
 
 </td>
-<td valign="middle" width="200">
+<td valign="middle" width="200" style="border: none;">
 <img src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif" width="200" alt="Coding penguin" />
 </td>
 </tr>
 </table>
-
 ## 🛠 &nbsp;Languages & Tools
 
 <p align="center">
