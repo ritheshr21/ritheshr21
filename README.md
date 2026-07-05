@@ -1,7 +1,7 @@
 <!-- PROFILE START -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Hey, I'm Rithesh R 👋</h1>
+<h1>Hey, I'm Rithesh 👋</h1>
 
 <p>
   <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em><br>
@@ -12,14 +12,24 @@
 
 ## What I Do
 
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td valign="middle" style="border: none;">
+
 Backend systems and AI-integrated applications. Currently:
 
 | Focus | Details |
 |-------|---------|
-| 🏢 Day job | Application Development Associate @ **Accenture** |
+| 🏢 Day job | Application Development Associate @ Accenture |
 | 🤖 Building | AI-integrated backend systems using LangChain, FAISS, and RAG pipelines |
 | 🌱 Learning | Distributed systems and event-driven architecture with Kafka |
 
+</td>
+<td valign="middle" width="220" style="border: none;">
+<img src="YOUR_GIF_URL_HERE" width="200" alt="coding gif">
+</td>
+</tr>
+</table>
 ---
 
 ## How I Work
