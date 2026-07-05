@@ -1,7 +1,7 @@
 ### Hi there 👋
 <html>
   <body>
-    <img src = "intro.gif" align = "center" width = "100%">
+    <div class="tenor-gif-embed" data-postid="7583067593778798133" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/penguin-pengu-code-coding-typing-gif-7583067593778798133">Penguin Code Sticker</a>from <a href="https://tenor.com/search/penguin-stickers">Penguin Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </body>
 </html>
 <!--
