@@ -30,6 +30,7 @@ Backend systems and AI-integrated applications. Currently:
 </td>
 </tr>
 </table>
+
 ---
 
 ## How I Work
