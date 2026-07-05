@@ -2,7 +2,7 @@
 <tr>
 <td valign="middle">
 
-# Hi there, I'm Rithesh R 👋
+# Hi there, I'm Rithesh 👋
 
 ◼ Backend Developer with 2+ years of experience building scalable applications using **Java** and **Spring Boot**.<br>
 ◼ Skilled in REST APIs, Microservices, Spring Security, JWT, and distributed systems using Redis and Kafka.<br>
@@ -11,7 +11,7 @@
 
 </td>
 <td valign="middle" width="200">
-<img src="YOUR_GIF_URL_HERE" width="200" alt="Coding penguin" />
+<img src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif" width="200" alt="Coding penguin" />
 </td>
 </tr>
 </table>
@@ -56,7 +56,7 @@
 
 ## 🤝 &nbsp;Connect with me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+<a href="https://www.linkedin.com/in/rithesh-r-641649218">
 <img align="left" alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40px" />
 </a>
 <a href="https://github.com/ritheshr21">
