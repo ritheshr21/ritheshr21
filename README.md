@@ -4,8 +4,8 @@
 <h1>Hey, I'm Rithesh 👋</h1>
 
 <p>
-  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em><br>
-  — Martin Fowler
+  <em>"Simplicity is prerequisite for reliability."</em><br>
+  — Edsger Dijkstra
 </p>
 
 ---
