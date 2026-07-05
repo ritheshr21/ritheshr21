@@ -1,17 +1,14 @@
-### Hi there 👋
-<html>
-  <table>
+<table>
 <tr>
-<td>
+<td valign="middle">
 
 Hi there 👋
 
 I'm Rithesh, an App Dev who loves building things.
 
 </td>
-<td width="250">
-<img src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif" width="220" />
+<td valign="middle" width="220">
+<img src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif" width="200" />
 </td>
 </tr>
 </table>
-</html>
