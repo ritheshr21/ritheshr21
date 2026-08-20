@@ -97,6 +97,6 @@ shipping   rest apis and query tuning on an enterprise healthcare platform
 
 ---
 
-<sub>no tests. i tested it by looking at it.</sub>
+<sub>if this looks broken, it's a feature branch.</sub>
 
 <!-- PROFILE END -->
