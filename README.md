@@ -1,94 +1,102 @@
 <!-- PROFILE START -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Hey, I'm Rithesh 👋</h1>
+### hey, i'm rithesh.
 
-<p>
-  <em>"Simplicity is prerequisite for reliability."</em><br>
-  — Edsger Dijkstra
-</p>
+i build backend services and the ai systems that sit on top of them. java, spring boot and oracle sql at work — python, fastapi and retrieval pipelines the rest of the time.
 
----
+**[portfolio](https://rithesh-portfolio.vercel.app)** · [resume](https://rithesh-portfolio.vercel.app/resume.pdf) · [linkedin](https://www.linkedin.com/in/rithesh-r-641649218) · [ritheshr21@gmail.com](mailto:ritheshr21@gmail.com) · bengaluru, india
 
-## What I Do
-
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td valign="middle" style="border: none;">
-
-Backend systems and AI-integrated applications. Currently:
-
-| Focus | Details |
-|-------|---------|
-| 🏢 Day job | Application Development Associate @ Accenture |
-| 🤖 Building | AI-integrated backend systems using LangChain, FAISS, and RAG pipelines |
-| 🌱 Learning | Distributed systems and event-driven architecture with Kafka |
-
-</td>
-<td valign="middle" width="220" style="border: none;">
-<img src="https://media.tenor.com/aTx3zLr2HjUAAAAj/penguin-pengu.gif" width="200" alt="coding gif">
-</td>
-</tr>
-</table>
+> *simplicity is prerequisite for reliability.* — edsger dijkstra
 
 ---
 
-## How I Work
+```console
+> whoami
+rithesh r — java full stack developer @ accenture (kaiser permanente)
+two years of backend: spring boot, rest apis, microservices, oracle sql.
+off the clock: python, fastapi, rag pipelines and agents that get evaluated.
 
-- **Backend-first** — REST APIs, microservices, and distributed systems that hold up under load
-- **Security-conscious** — Spring Security, JWT, and auth flows built in from the start, not bolted on
-- **Event-driven** — Redis and Kafka for systems that need to react, not just respond
-- **AI-curious** — exploring RAG pipelines, vector databases, and LLM-powered applications on top of a solid backend foundation
-
----
-
-## Tech I Reach For
-
-<p align="center">
-  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+> ls ~/right-now
+building   ai-integrated backends — langchain, faiss, retrieval pipelines
+learning   distributed systems and event-driven architecture with kafka
+shipping   rest apis and query tuning on an enterprise healthcare platform
+```
 
 ---
 
-## Certifications
+### how i work
 
-- Microsoft Certified: Azure AI Engineer Associate
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+**backend-first** — rest apis, microservices and distributed systems that hold up under load
+
+**security-conscious** — spring security, jwt and auth flows built in from the start, not bolted on
+
+**event-driven** — redis and kafka for systems that need to react, not just respond
+
+**measured** — the oracle query i tuned went from ~16s to ~5s. i know that number because i checked
+
+**ai-curious** — rag pipelines, vector databases and llm applications on top of a solid backend
 
 ---
 
-## Connect
+### tech i reach for
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rithesh-r-641649218">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ritheshr21">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:ritheshr21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+`languages`
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+![Java](https://img.shields.io/badge/java-2138E0?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-2138E0?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-2138E0?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-2138E0?style=flat-square&logo=databricks&logoColor=white)
+
+`frameworks`
+
+![Spring Boot](https://img.shields.io/badge/spring%20boot-2138E0?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-2138E0?style=flat-square&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-2138E0?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/react-2138E0?style=flat-square&logo=react&logoColor=white)
+
+`data`
+
+![Oracle](https://img.shields.io/badge/oracle-2138E0?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-2138E0?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-2138E0?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-2138E0?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-2138E0?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-2138E0?style=flat-square&logo=apachekafka&logoColor=white)
+
+`infra`
+
+![Docker](https://img.shields.io/badge/docker-2138E0?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-2138E0?style=flat-square&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-2138E0?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-2138E0?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-2138E0?style=flat-square&logo=linux&logoColor=white)
+
+`ai`
+
+![LangChain](https://img.shields.io/badge/langchain-2138E0?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/faiss-2138E0?style=flat-square&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/hugging%20face-2138E0?style=flat-square&logo=huggingface&logoColor=white)
+![MCP](https://img.shields.io/badge/mcp-2138E0?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### things i've built
+
+**[cbse smart learning assistant](https://cbse-smart-assistant.onrender.com/)** — react + fastapi study assistant. langchain over a faiss index, fed by a pymupdf/tesseract ocr pipeline that turns scanned textbooks into answerable chunks.
+
+**[commitment tracker ai agent](https://commitment-tracker-mcp.onrender.com/)** — an agent that reads your mail and tracks what you promised people. reusable mcp server, sqlite persistence, gmail webhooks, and an eval harness that hit 100% extraction precision and recall.
+
+---
+
+### paper trail
+
+- microsoft certified: azure ai engineer associate
+- oracle cloud infrastructure 2025 certified generative ai professional
+- publication: *medlockr* — irjmets international journal, jan 2024
+- b.tech, computer science (ai & ml) — presidency university, bengaluru
+
+---
+
+<sub>no tests. i tested it by looking at it.</sub>
+
 <!-- PROFILE END -->
