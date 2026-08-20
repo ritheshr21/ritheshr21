@@ -4,22 +4,28 @@
 
 i build backend services and the ai systems that sit on top of them. java, spring boot and oracle sql at work — python, fastapi and retrieval pipelines the rest of the time.
 
-**[portfolio](https://ritheshr.vercel.app)** · [resume](https://rithesh-portfolio.vercel.app/resume.pdf) · [linkedin](https://www.linkedin.com/in/rithesh-r-641649218) · [ritheshr21@gmail.com](mailto:ritheshr21@gmail.com) · bengaluru, india
+**[portfolio](https://ritheshr.vercel.app)** · [resume](https://rithesh-portfolio.vercel.app/resume.pdf) · [linkedin](https://www.linkedin.com/in/rithesh-r-641649218) · [email](mailto:ritheshr21@gmail.com)
 
-> *simplicity is prerequisite for reliability.* — edsger dijkstra
+bengaluru, india
+
+> *simplicity is prerequisite for reliability.*
+> — edsger dijkstra
 
 ---
 
 ```console
 > whoami
-rithesh r — java full stack developer @ accenture (kaiser permanente)
-two years of backend: spring boot, rest apis, microservices, oracle sql.
-off the clock: python, fastapi, rag pipelines and agents that get evaluated.
+rithesh r
+java full stack developer @ accenture
+two years of backend: spring boot, rest
+apis, microservices, oracle sql. off the
+clock: python, fastapi, rag pipelines and
+agents that actually get evaluated.
 
 > ls ~/right-now
-building   ai-integrated backends — langchain, faiss, retrieval pipelines
-learning   distributed systems and event-driven architecture with kafka
-shipping   rest apis and query tuning on an enterprise healthcare platform
+building   ai backends — langchain, faiss
+learning   distributed systems, kafka
+shipping   rest apis, query tuning
 ```
 
 ---
@@ -82,9 +88,13 @@ shipping   rest apis and query tuning on an enterprise healthcare platform
 
 ### things i've built
 
-**[cbse smart learning assistant](https://cbse-smart-assistant.onrender.com/)** — react + fastapi study assistant. langchain over a faiss index, fed by a pymupdf/tesseract ocr pipeline that turns scanned textbooks into answerable chunks.
+**[cbse smart learning assistant](https://cbse-smart-assistant.onrender.com/)**
 
-**[commitment tracker ai agent](https://commitment-tracker-mcp.onrender.com/)** — an agent that reads your mail and tracks what you promised people. reusable mcp server, sqlite persistence, gmail webhooks, and an eval harness that hit 100% extraction precision and recall.
+react + fastapi study assistant. langchain over a faiss index, fed by a pymupdf/tesseract ocr pipeline that turns scanned textbooks into answerable chunks.
+
+**[commitment tracker ai agent](https://commitment-tracker-mcp.onrender.com/)**
+
+an agent that reads your mail and tracks what you promised people. reusable mcp server, sqlite persistence, gmail webhooks, and an eval harness that hit 100% extraction precision and recall.
 
 ---
 
