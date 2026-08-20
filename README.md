@@ -4,7 +4,7 @@
 
 i build backend services and the ai systems that sit on top of them. java, spring boot and oracle sql at work — python, fastapi and retrieval pipelines the rest of the time.
 
-**[portfolio](https://rithesh-portfolio.vercel.app)** · [resume](https://rithesh-portfolio.vercel.app/resume.pdf) · [linkedin](https://www.linkedin.com/in/rithesh-r-641649218) · [ritheshr21@gmail.com](mailto:ritheshr21@gmail.com) · bengaluru, india
+**[portfolio](https://ritheshr.vercel.app)** · [resume](https://rithesh-portfolio.vercel.app/resume.pdf) · [linkedin](https://www.linkedin.com/in/rithesh-r-641649218) · [ritheshr21@gmail.com](mailto:ritheshr21@gmail.com) · bengaluru, india
 
 > *simplicity is prerequisite for reliability.* — edsger dijkstra
 
